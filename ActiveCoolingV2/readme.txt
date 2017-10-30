@@ -1,0 +1,1 @@
+Same functionality as Active Cooling V1 but in V2 only parts that have crew capacity or tankage space has the active cooling fluid generator
